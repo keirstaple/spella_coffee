@@ -1,11 +1,13 @@
 /*Wireframing*/
 /**:not(body):not(html) {
   box-sizing:border-box;
-  border:1px dashed #000;
+  border:1px dashed red;
 }*/
 
 /*End wirefram*/
-
+nav {
+  overflow:
+}
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -17,6 +19,12 @@ p {
 
 .button-collapse {
   color: #26a69a;
+}
+
+.z-depth-4 {
+  width: 60%;
+  margin: auto;
+  border-radius: 100%;
 }
 
 .parallax-container {
